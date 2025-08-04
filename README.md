@@ -14,7 +14,11 @@ A basic command-line calculator written in Java. This calculator allows users to
 
 💻 How It Works
  > Run the program.
+
  > Enter a mathematical operation symbol (+, -, *, /).
+
  > Enter two integers when prompted.
+
  > Get the result instantly.
+
  > Enter any alphabet character to exit.
