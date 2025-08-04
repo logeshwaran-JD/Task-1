@@ -2,6 +2,7 @@
 A basic command-line calculator written in Java. This calculator allows users to perform fundamental arithmetic operations—addition, subtraction, multiplication, and division—through interactive input via the terminal.
 
 📌 Features
+
  -> Supports four basic operations: +, -, *, /
   
  -> Accepts user input dynamically using Scanner
